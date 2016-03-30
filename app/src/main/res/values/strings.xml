@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mapplication</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lewis_clark">Lewis &amp; Clark</string>
+</resources>
